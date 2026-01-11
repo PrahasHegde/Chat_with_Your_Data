@@ -1,4 +1,4 @@
-# 📄 Chat with Multiple PDFs
+# 📄 Chat with DATA
 
 A **Streamlit app** that lets you upload multiple PDFs and chat with them using a **Groq LLM**, **HuggingFace embeddings**, and **FAISS vector database**.  
 
